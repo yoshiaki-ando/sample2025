@@ -5,7 +5,7 @@ int func2(int x, int y){
 }
 
 int function(int x){
-  return x*x;
+  return x*(x-1);
 }
 
 int main(void){
