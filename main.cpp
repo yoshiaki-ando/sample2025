@@ -1,7 +1,8 @@
 #include <iostream>
 
 int func2(int x, int y){
-  return x*x + y*y;
+  return x*x + y*y + 2*x*y;
+  //+ 2*x*y 追加　by Mikoshiba
 }
 
 int function(int x){
