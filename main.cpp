@@ -20,5 +20,7 @@ int main(void){
   std::cout << function(3) << std::endl;
   std::cout << func2(3, 2) << std::endl;
 
+  std::cout << "complete" << std::endl; /* shirasaki */
+
   return 0;
 }
